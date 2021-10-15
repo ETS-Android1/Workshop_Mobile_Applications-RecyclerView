@@ -1,5 +1,5 @@
-# Workshop_Mobile_Applications-RecyclerView
-Upload tugas workshop mobile application recyclerview
+Upload tugas workshop mobile application
+# Tugas 4 RecyclerView 
 
 Tugas RecyclerView yang Fix adalah dengan nama folder/berkas (RecyclerViewDataMovie)
 
@@ -28,7 +28,7 @@ Golongan : A
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# TUGAS Fragment Bottom Navigation
+# TUGAS 5 Fragment Bottom Navigation
 Nama : Rafli Al Fajar
 NIM : E41200029
 Prodi : TIF
@@ -59,3 +59,43 @@ Output:
 ![Output 1](https://user-images.githubusercontent.com/75103755/136899144-f6c3039c-43d0-4ff3-8a05-d6019d8f68a9.PNG)
 ![Output 2](https://user-images.githubusercontent.com/75103755/136899151-6109c66a-c858-4be6-ae15-c7ff749ff745.PNG)
 ![Output 3](https://user-images.githubusercontent.com/75103755/136899153-66f7870b-dbbb-4047-a845-384bdf9354a4.PNG)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# TUGAS Implicit dan Explicit
+Nama : Rafli Al Fajar
+NIM : E41200029
+Prodi : TIF
+Golongan : A
+
+# SS HASIL:
+
+Activity_main(xml):
+![1  Activity main XML](https://user-images.githubusercontent.com/75103755/137420052-70611f76-e03d-47ba-af94-d123e0588bc4.PNG)
+
+Activity Java:
+![2  Activity Java](https://user-images.githubusercontent.com/75103755/137420065-bfd46cc6-5801-43c4-9d89-27cdd8df5ecb.PNG)
+
+Android Manifest:
+![3  Android manifest](https://user-images.githubusercontent.com/75103755/137420069-234502ab-24bc-4ac0-a58d-1485bd85177c.PNG)
+
+Output:
+![Output 1](https://user-images.githubusercontent.com/75103755/137420072-8f53ecf8-116e-455b-a079-f5d19fd2fdef.PNG)
+![Output 2](https://user-images.githubusercontent.com/75103755/137420081-55fdcc51-892b-4bb7-a0ae-1bb3acbe7c58.PNG)
+
+Activity_main(xml):
+![1  Activity Main](https://user-images.githubusercontent.com/75103755/137421499-1a0c2605-5ace-495b-aeb1-30d1958b331f.PNG)
+
+Activity_second(xml):
+![2  Activity Second](https://user-images.githubusercontent.com/75103755/137421506-e4ab40e8-6468-48f9-ae04-a9fbcbc29c40.PNG)
+
+Main Activity Java:
+![3  Main Activity Java](https://user-images.githubusercontent.com/75103755/137421510-e316f8aa-6003-409e-ad68-58010eaf0372.PNG)
+Main Activity Second Java:
+![4  Activity Second Java](https://user-images.githubusercontent.com/75103755/137421511-912bc726-71a0-4c22-ab7e-7de559f38bf7.PNG)
+
+Output:
+![Output 1](https://user-images.githubusercontent.com/75103755/137421513-aaa9f42c-253f-42e5-bcad-0014da94798a.PNG)
+![Output 2](https://user-images.githubusercontent.com/75103755/137421517-7702cdd7-2c00-472d-aa70-a71fb63bfba9.PNG)
+
